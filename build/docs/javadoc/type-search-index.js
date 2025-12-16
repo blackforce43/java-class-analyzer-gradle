@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.example","l":"ClassAnalyzer"},{"p":"org.example","l":"FxMainApp"},{"p":"org.example","l":"LoggerConfig"},{"p":"org.example","l":"MainApp"},{"p":"org.example","l":"MethodAnalyzer"}];updateSearchResults();
